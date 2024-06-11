@@ -1,0 +1,5 @@
+1) create two users user1 and user2 
+2) create 5 files in each user home directory 
+3) change permission of first 5 files to rw-------
+4) change permission of second 5 files to rwxrwx---
+5) create a group and add that users to that group
